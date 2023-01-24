@@ -1,6 +1,4 @@
 import React from 'react';
-import { useState, useEffect } from 'react';
-import { useSelector } from 'react-redux';
 
 import Form from './ContactAddForm/ContactAddForm';
 import ContactsList from './ContactsList/ContactsList';
